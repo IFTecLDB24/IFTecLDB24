@@ -4,5 +4,5 @@ Meu nome é Thayná Turma  2A**
 
 Estamos cursando Alura
 
+![cat-dance-dancing-cat](https://github.com/IFTecLDB24/IFTecLDB24/assets/172287580/87569034-259f-4703-b33c-9bcbe498109d)
 
-![rip-juice-cry](https://github.com/IFTecLDB24/IFTecLDB24/assets/172287580/f6e5080e-8683-4107-bf07-ac7db33b0662)
