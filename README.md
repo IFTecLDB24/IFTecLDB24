@@ -1,6 +1,6 @@
-##Olá você está no meu perfil!
+## Olá você está no meu perfil!
 
-Meu nome é Thayná Turma  2A**
+Meu nome é **Thayná Turma  2A**
 
 Estamos cursando Alura
 
